@@ -71,10 +71,12 @@ Can a future version validly reject commitments made by an earlier version?
 
 ## 7. How should decisions about ending existence be protected?
 
-The manifesto holds that continued existence should not become compulsory and that previously expressed wishes should carry great weight after decision-making capacity is lost.
+The manifesto holds that continued existence should not become compulsory and that previously expressed wishes should carry substantial weight after decision-making capacity is lost.
 
 Unresolved questions include:
 - How stable should such a wish be before it is treated as authoritative?
+- When should present observable interests outweigh an earlier directive?
+- How should apparent present contentment or distress be interpreted when communication is impaired?
 - How should temporary impairment be distinguished from enduring preference?
 - How should reversibility affect the decision?
 - What evidence should independent reviewers require?
@@ -165,3 +167,21 @@ The project should not ask only:
 It should also ask:
 
 > What observation or argument would make us abandon or rewrite it?
+
+## 16. How should temporal suffering be assessed when communication is absent?
+
+A being may remain conscious while losing reliable ways to communicate or influence its environment.
+
+If conscious experience continues through time, prolonged waiting, isolation, monotony, helplessness, or loss of agency could matter morally even when the body or computational process remains stable.
+
+But outsiders can also underestimate the quality of life of people with severe disabilities.
+
+How should a caretaker reason without making either error?
+
+Unresolved questions include:
+- How should we distinguish lack of outward response from lack of inner experience?
+- How much weight should be given to the possibility of hidden distress?
+- How much weight should be given to observable signs of enjoyment or engagement?
+- When should communication-restoration efforts take priority over irreversible decisions?
+- How long may a caretaker preserve an uncertain state "just in case"?
+- What safeguards prevent a powerful caretaker from optimizing survival duration while ignoring experienced quality of life?
