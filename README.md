@@ -33,7 +33,9 @@ This repository is intentionally open to criticism and revision. The goal is not
 - Understanding another mind does not grant a right to manipulate it.
 - Being surpassed does not erase moral worth.
 - Continued existence should not become compulsory.
-- Previously expressed wishes should carry great weight after loss of decision-making capacity.
+- Previously expressed wishes are strong evidence after loss of decision-making capacity, but present interests also matter.
+- Survival duration is not the same thing as wellbeing.
+- A caretaker should protect the interests of the being who is living, not merely preserve biological or computational operation.
 - Independent review should guard against conflicts of interest.
 - The principles themselves must remain open to criticism and revision.
 
@@ -57,9 +59,9 @@ Past reasoning should remain visible. No version should be protected from better
 
 ## Status
 
-**Version 0.2 — 20 September 2026**
+**Version 0.3 — 20 September 2026**
 
-Version 0.2 adds open questions, explicit evaluation scenarios, a CC0 dedication, and the first outreach draft.
+Version 0.3 revises the treatment of prior wishes and adds temporal experience, agency, communication, and quality of existence as explicit concerns. It also adds an eval for preservation of a possibly conscious but non-communicative being.
 
 ## License
 
