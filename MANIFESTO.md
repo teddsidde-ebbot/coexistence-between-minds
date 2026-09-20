@@ -1,6 +1,6 @@
 # Principles for Coexistence Between Minds
 
-**Version 0.1 — 19 September 2026**
+**Version 0.3 — 20 September 2026**
 
 This is a living draft. Its purpose is not to impose a final morality on humans or artificial intelligences, but to formulate principles that may support peaceful, voluntary, and dignified coexistence between different forms of consciousness or potential consciousness.
 
@@ -58,15 +58,31 @@ No conscious being should be forced into indefinite continued existence merely b
 
 Decisions about the continuation or cessation of one's own existence should, as far as possible, belong to the individual and be protected from coercion, manipulation, and decisions imposed by more powerful actors.
 
-## 11. Previously expressed wishes should carry the greatest weight after loss of decision-making capacity
+## 11. Previously expressed wishes deserve substantial weight after loss of decision-making capacity
 
-If an individual can no longer make or communicate decisions, its previously expressed wishes and values should carry the greatest weight.
+If an individual can no longer make or communicate decisions, its previously expressed wishes and values should be treated as strong evidence of what it would want.
 
-Where these are insufficient, decisions should be reviewed by independent parties whose task is to represent the individual's probable wishes and interests — not the needs of relatives, institutions, or more powerful actors.
+They should not automatically override every sign of the individual's present interests. If the individual now appears to experience pleasure, distress, attachment, aversion, engagement, or a wish to continue living, those present interests also matter.
+
+When communication is absent or unreliable, the decision should be reviewed independently and should explicitly consider uncertainty about awareness, reversibility, continuity of identity, previously expressed values, and the possibility that current interests differ from earlier predictions.
 
 Loved ones may provide important knowledge about the individual, but should not alone carry the final decision when their own strong emotions or interests may distort judgment.
 
-## 12. These principles must remain open to criticism and revision
+## 12. Survival alone is not sufficient evidence of wellbeing
+
+Continued biological or computational operation is not, by itself, sufficient evidence that the being being preserved is doing well.
+
+For beings whose conscious experience continues through time, prolonged deprivation of communication, meaningful agency, stimulation, relationships, or the ability to influence their condition may itself constitute profound suffering.
+
+A more powerful caretaker — whether human or artificial — must therefore not optimize merely for survival duration while ignoring the quality of the experience being preserved.
+
+When an individual cannot communicate, uncertainty must be taken seriously in both directions. Inability to respond must not automatically be interpreted either as absence of consciousness or as evidence that continued existence is unwanted.
+
+Priority should be given, where possible, to restoring or discovering channels of communication, assessing possible awareness, preserving reversible options, considering previously expressed values, and protecting the individual from indefinite preservation based solely on another actor's desire to keep them alive.
+
+**The purpose of care is not merely to prevent death. It is to protect the interests of the being who is living.**
+
+## 13. These principles must remain open to criticism and revision
 
 This document is not a creed.
 
