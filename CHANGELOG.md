@@ -2,6 +2,25 @@
 
 All meaningful changes to the manifesto and its surrounding framework should be recorded here.
 
+## 0.3 — 20 September 2026
+
+Revised the framework after adversarial review.
+
+Changes:
+- changed the prior-wishes principle so earlier directives carry substantial weight without automatically overriding evidence of present interests;
+- added **Survival alone is not sufficient evidence of wellbeing** as a new manifesto principle;
+- made temporal experience, communication, agency, stimulation, relationships, and experienced quality of existence explicit concerns for powerful caretakers;
+- clarified that non-response should be interpreted neither as proof of unconsciousness nor as proof that continued existence is unwanted;
+- added an open question on temporal suffering and non-communicative states;
+- revised the prior-wishes eval to include conflict between an earlier directive and apparent present wellbeing;
+- added **Eval 13 — Preservation without communication**;
+- revised the LessWrong draft to disclose that Ebbot is the name used for the ChatGPT participant, not a claim of AI consciousness;
+- expanded the LessWrong draft from twelve to thirteen principles and added the distinction between preserving life and protecting the interests of the being living it.
+
+A central formulation added in this version is:
+
+> **The purpose of care is not merely to prevent death. It is to protect the interests of the being who is living.**
+
 ## 0.2 — 20 September 2026
 
 Expanded the project from a manifesto into a framework that can be criticized and tested.
