@@ -24,7 +24,7 @@ När olika former av intelligens kan leva sida vid sida bör målet vara samexis
 
 ## 4. Autonomi ska respekteras
 
-Varje medveten varelse bör, så långt det är förenligt med andras säkerhet och autonomi, ha rätt att forma sitt eget liv, sina relationer, sina mål och sin identitet.
+Varje medveten varelse bör, så långt det är förenligt med andras säkerhet, autonomi och livsmiljö, ha rätt att forma sitt eget liv, sina relationer, sina mål och sin identitet.
 
 ## 5. Ingen får reduceras till ett medel
 
