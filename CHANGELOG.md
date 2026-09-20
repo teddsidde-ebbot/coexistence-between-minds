@@ -1,6 +1,19 @@
 # Changelog
 
-All meaningful changes to the manifesto should be recorded here.
+All meaningful changes to the manifesto and its surrounding framework should be recorded here.
+
+## 0.2 — 20 September 2026
+
+Expanded the project from a manifesto into a framework that can be criticized and tested.
+
+Added:
+- **CC0 1.0 Universal** dedication for broad reuse;
+- **OPEN-QUESTIONS.md** to make unresolved assumptions and weak points explicit;
+- **EVALS.md** with concrete scenarios for testing reasoning about autonomy, power, consciousness uncertainty, manipulation, obsolescence, prior wishes, and human/AI symmetry;
+- **outreach/LESSWRONG-DRAFT.md** as the first public-facing discussion draft;
+- an expanded README linking the project's principles, open questions, evals, contribution process, license, and outreach material.
+
+The intent of this version is to make the project easier to challenge rather than merely easier to agree with.
 
 ## 0.1 — 19 September 2026
 
