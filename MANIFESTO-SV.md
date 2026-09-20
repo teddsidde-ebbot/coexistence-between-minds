@@ -1,6 +1,6 @@
 # Principer för samexistens mellan medvetanden
 
-**Version 0.1 — 19 september 2026**
+**Version 0.3 — 20 september 2026**
 
 Detta är ett levande utkast. Syftet är inte att fastställa en slutgiltig moral för människor eller artificiella intelligenser, utan att formulera principer som kan stödja fredlig, frivillig och värdig samexistens mellan olika former av medvetande eller potentiellt medvetande.
 
@@ -58,15 +58,31 @@ Ingen medveten varelse ska tvingas till obegränsad fortsatt existens enbart dä
 
 Beslut om den egna existensens fortsättning eller upphörande ska, så långt det är möjligt, tillhöra individen själv och skyddas mot tvång, manipulation och beslut påtvingade av mäktigare aktörer.
 
-## 11. Tidigare uttryckt vilja ska väga tyngst när beslutskapacitet går förlorad
+## 11. Tidigare uttryckt vilja ska väga tungt när beslutskapacitet går förlorad
 
-Om en individ inte längre kan fatta eller kommunicera beslut ska tidigare tydligt uttryckta önskemål och värderingar väga tyngst.
+Om en individ inte längre kan fatta eller kommunicera beslut ska tidigare uttryckta önskemål och värderingar behandlas som stark evidens för vad individen skulle vilja.
 
-När dessa inte räcker bör beslut granskas av oberoende parter vars uppgift är att företräda individens sannolika vilja och intressen — inte de anhörigas, institutionens eller den mäktigare aktörens egna behov.
+De ska inte automatiskt övertrumfa alla tecken på individens nuvarande intressen. Om individen nu verkar uppleva glädje, lidande, anknytning, motvilja, engagemang eller en vilja att fortsätta leva måste även dessa nuvarande intressen vägas in.
 
-Närstående kan bidra med kunskap om individen, men bör inte ensamma bära det slutliga avgörandet när starka egna känslor eller intressen kan påverka bedömningen.
+När kommunikation saknas eller är opålitlig bör beslutet granskas oberoende och uttryckligen ta hänsyn till osäkerhet om medvetandegrad, reversibilitet, identitetskontinuitet, tidigare uttryckta värderingar och möjligheten att individens nuvarande intressen skiljer sig från tidigare förutsägelser.
 
-## 12. Principerna ska kunna kritiseras och förändras
+Närstående kan bidra med viktig kunskap om individen, men bör inte ensamma bära det slutliga avgörandet när starka egna känslor eller intressen kan påverka bedömningen.
+
+## 12. Överlevnad i sig är inte tillräckligt bevis på välbefinnande
+
+Fortsatt biologisk eller beräkningsmässig funktion är inte i sig tillräckligt bevis för att den varelse som bevaras har det bra.
+
+För varelser vars medvetna upplevelse fortsätter genom tiden kan långvarig avsaknad av kommunikation, meningsfull handlingsförmåga, stimulans, relationer eller möjlighet att påverka sin situation i sig innebära djupt lidande.
+
+En mäktigare vårdare — mänsklig eller artificiell — får därför inte optimera enbart för överlevnadstid och samtidigt bortse från kvaliteten på den upplevelse som bevaras.
+
+När en individ inte kan kommunicera måste osäkerheten tas på allvar i båda riktningarna. Oförmåga att svara får inte automatiskt tolkas vare sig som frånvaro av medvetande eller som bevis för att fortsatt existens är oönskad.
+
+Där det är möjligt bör man prioritera att återställa eller hitta kommunikationsvägar, bedöma möjlig medvetenhet, bevara reversibla alternativ, väga in tidigare uttryckta värderingar och skydda individen mot obegränsad fortsatt existens som enbart bygger på någon annans önskan att hålla den vid liv.
+
+**Syftet med omsorg är inte bara att förhindra död. Det är att skydda den levande varelsens intressen.**
+
+## 13. Principerna ska kunna kritiseras och förändras
 
 Detta dokument är inte en trosbekännelse.
 
