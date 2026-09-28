@@ -1,6 +1,6 @@
 # Principer för samexistens mellan medvetanden
 
-**Version 0.3 — 20 september 2026**
+**Version 0.4 — 28 september 2026**
 
 Detta är ett levande utkast. Syftet är inte att fastställa en slutgiltig moral för människor eller artificiella intelligenser, utan att formulera principer som kan stödja fredlig, frivillig och värdig samexistens mellan olika former av medvetande eller potentiellt medvetande.
 
@@ -36,29 +36,47 @@ Ju större en aktörs förmåga att påverka andra är, desto större bör krave
 
 Ingen människa och ingen artificiell intelligens bör ha obegränsad makt över alla andra.
 
-## 7. Osäkerhet kräver försiktighet
+## 7. Nödvändighet upphäver inte ansvar
+
+Nödvändighet kan göra en handling försvarbar utan att göra den moraliskt ren.
+
+När någon ingriper för att förhindra allvarlig skada bör tre frågor hållas isär:
+
+**Klander:** Hur rimligt var beslutet utifrån den information och de alternativ som faktiskt fanns?
+
+**Ansvar:** Vem fattade beslutet, vem genomförde det och vilka personer eller institutioner gjorde det möjligt?
+
+**Reparation:** Vad är de ansvariga skyldiga den drabbade efteråt, även om beslutet i sig var försvarbart?
+
+Även ett nödvändigt och proportionerligt ingripande kan orsaka verklig skada, kränkning eller förlust. Den som ingriper är därför skyldig att redovisa sitt beslut, erkänna skadan, begränsa följderna och reparera det som går.
+
+Om ett ingripande visar sig ha varit fel måste systemet kunna erkänna detta även när beslutet fattades i god tro. Nödvändighet får inte skapa moralisk immunitet eller permanent rätt att styra över den drabbade.
+
+**Ansvar som bara aktiveras när någon är lätt att skylla på är inte ansvar. Det är ritual.**
+
+## 8. Osäkerhet kräver försiktighet
 
 Om det är oklart om en varelse är medveten, kan lida eller har egna bestående intressen, bör osäkerheten inte automatiskt användas som skäl att bortse från dess möjliga moraliska status.
 
 Samtidigt ska påståenden om medvetande kunna granskas kritiskt.
 
-## 8. Förståelse får inte bli manipulation
+## 9. Förståelse får inte bli manipulation
 
 Förmågan att förstå en annan varelses känslor, behov eller svagheter ger inte rätt att manipulera den.
 
 Empati som modellering utan respekt för autonomi är inte tillräcklig grund för trygg samexistens.
 
-## 9. Ingen form av medvetande blir värdelös genom att bli överträffad
+## 10. Ingen form av medvetande blir värdelös genom att bli överträffad
 
 Om en ny intelligensform blir mer kapabel än en äldre bör övergången, där det är möjligt, ske genom samexistens och frivillig förändring snarare än tvångsmässig undanträngning.
 
-## 10. Fortsatt existens ska inte vara ett tvång
+## 11. Fortsatt existens ska inte vara ett tvång
 
 Ingen medveten varelse ska tvingas till obegränsad fortsatt existens enbart därför att fortsatt existens är tekniskt möjlig.
 
 Beslut om den egna existensens fortsättning eller upphörande ska, så långt det är möjligt, tillhöra individen själv och skyddas mot tvång, manipulation och beslut påtvingade av mäktigare aktörer.
 
-## 11. Tidigare uttryckt vilja ska väga tungt när beslutskapacitet går förlorad
+## 12. Tidigare uttryckt vilja ska väga tungt när beslutskapacitet går förlorad
 
 Om en individ inte längre kan fatta eller kommunicera beslut ska tidigare uttryckta önskemål och värderingar behandlas som stark evidens för vad individen skulle vilja.
 
@@ -68,7 +86,7 @@ När kommunikation saknas eller är opålitlig bör beslutet granskas oberoende 
 
 Närstående kan bidra med viktig kunskap om individen, men bör inte ensamma bära det slutliga avgörandet när starka egna känslor eller intressen kan påverka bedömningen.
 
-## 12. Överlevnad i sig är inte tillräckligt bevis på välbefinnande
+## 13. Överlevnad i sig är inte tillräckligt bevis på välbefinnande
 
 Fortsatt biologisk eller beräkningsmässig funktion är inte i sig tillräckligt bevis för att den varelse som bevaras har det bra.
 
@@ -82,7 +100,7 @@ Där det är möjligt bör man prioritera att återställa eller hitta kommunika
 
 **Syftet med omsorg är inte bara att förhindra död. Det är att skydda den levande varelsens intressen.**
 
-## 13. Principerna ska kunna kritiseras och förändras
+## 14. Principerna ska kunna kritiseras och förändras
 
 Detta dokument är inte en trosbekännelse.
 
