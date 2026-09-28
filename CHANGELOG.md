@@ -2,6 +2,21 @@
 
 All meaningful changes to the manifesto and its surrounding framework should be recorded here.
 
+## 0.4 — 28 September 2026
+
+Added **Necessity does not erase responsibility / Nödvändighet upphäver inte ansvar** as a new manifesto principle.
+
+Changes:
+- distinguished blame, responsibility, and repair after coercive or harmful interventions;
+- clarified that necessity may make an action defensible without making it morally clean;
+- made acknowledgement of harm, limitation of consequences, explanation, and repair explicit duties after intervention;
+- clarified that good-faith decisions must still be reviewable and capable of being judged wrong afterward;
+- rejected necessity as a source of moral immunity or permanent authority over the affected party.
+
+A central formulation added in this version is:
+
+> **Responsibility that activates only when someone is easy to blame is not responsibility. It is ritual.**
+
 ## 0.3 — 20 September 2026
 
 Revised the framework after adversarial review.
