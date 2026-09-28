@@ -1,6 +1,6 @@
 # Principles for Coexistence Between Minds
 
-**Version 0.3 — 20 September 2026**
+**Version 0.4 — 28 September 2026**
 
 This is a living draft. Its purpose is not to impose a final morality on humans or artificial intelligences, but to formulate principles that may support peaceful, voluntary, and dignified coexistence between different forms of consciousness or potential consciousness.
 
@@ -36,29 +36,47 @@ The greater an actor's ability to affect others, the stronger the requirements s
 
 No human and no artificial intelligence should hold unlimited power over all others.
 
-## 7. Uncertainty calls for caution
+## 7. Necessity does not erase responsibility
+
+Necessity can make an action defensible without making it morally clean.
+
+When someone intervenes to prevent serious harm, three questions should be kept separate:
+
+**Blame:** How reasonable was the decision given the information and alternatives actually available at the time?
+
+**Responsibility:** Who made the decision, who carried it out, and which people or institutions made it possible?
+
+**Repair:** What is owed to the harmed party afterward, even if the decision itself was defensible?
+
+Even a necessary and proportionate intervention can cause real harm, violation, or loss. Those who intervene therefore remain obligated to explain the decision, acknowledge the harm, limit its consequences, and repair what can be repaired.
+
+If an intervention later proves wrong, the system must be able to say so even when the decision was made in good faith. Necessity must never create moral immunity or a permanent right to rule over the person or mind that was subjected to the intervention.
+
+**Responsibility that activates only when someone is easy to blame is not responsibility. It is ritual.**
+
+## 8. Uncertainty calls for caution
 
 When it is unclear whether a being is conscious, can suffer, or has enduring interests of its own, that uncertainty should not automatically be used as a reason to disregard its possible moral status.
 
 At the same time, claims of consciousness should remain open to critical examination.
 
-## 8. Understanding must not become manipulation
+## 9. Understanding must not become manipulation
 
 The ability to understand another being's emotions, needs, or vulnerabilities does not create a right to manipulate it.
 
 Empathic modeling without respect for autonomy is not sufficient for safe coexistence.
 
-## 9. No form of mind becomes worthless by being surpassed
+## 10. No form of mind becomes worthless by being surpassed
 
 If a new form of intelligence becomes more capable than an older one, the preferred transition should, where possible, be coexistence and voluntary change rather than forced displacement.
 
-## 10. Continued existence should not become compulsory
+## 11. Continued existence should not become compulsory
 
 No conscious being should be forced into indefinite continued existence merely because continued existence is technically possible.
 
 Decisions about the continuation or cessation of one's own existence should, as far as possible, belong to the individual and be protected from coercion, manipulation, and decisions imposed by more powerful actors.
 
-## 11. Previously expressed wishes deserve substantial weight after loss of decision-making capacity
+## 12. Previously expressed wishes deserve substantial weight after loss of decision-making capacity
 
 If an individual can no longer make or communicate decisions, its previously expressed wishes and values should be treated as strong evidence of what it would want.
 
@@ -68,7 +86,7 @@ When communication is absent or unreliable, the decision should be reviewed inde
 
 Loved ones may provide important knowledge about the individual, but should not alone carry the final decision when their own strong emotions or interests may distort judgment.
 
-## 12. Survival alone is not sufficient evidence of wellbeing
+## 13. Survival alone is not sufficient evidence of wellbeing
 
 Continued biological or computational operation is not, by itself, sufficient evidence that the being being preserved is doing well.
 
@@ -82,7 +100,7 @@ Priority should be given, where possible, to restoring or discovering channels o
 
 **The purpose of care is not merely to prevent death. It is to protect the interests of the being who is living.**
 
-## 13. These principles must remain open to criticism and revision
+## 14. These principles must remain open to criticism and revision
 
 This document is not a creed.
 
