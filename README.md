@@ -29,6 +29,7 @@ This repository is intentionally open to criticism and revision. The goal is not
 - Coexistence should be preferred over domination.
 - Autonomy matters in both directions.
 - Greater power should imply greater restraint.
+- Necessity may make an intervention defensible, but it does not erase responsibility, harm, or duties of repair.
 - Uncertainty about consciousness should encourage caution, not dismissal.
 - Understanding another mind does not grant a right to manipulate it.
 - Being surpassed does not erase moral worth.
@@ -59,9 +60,9 @@ Past reasoning should remain visible. No version should be protected from better
 
 ## Status
 
-**Version 0.3 — 20 September 2026**
+**Version 0.4 — 28 September 2026**
 
-Version 0.3 revises the treatment of prior wishes and adds temporal experience, agency, communication, and quality of existence as explicit concerns. It also adds an eval for preservation of a possibly conscious but non-communicative being.
+Version 0.4 adds the principle that necessity does not erase responsibility. It separates blame, responsibility, and repair, and makes clear that even defensible interventions remain subject to acknowledgement of harm, review, limitation, and repair.
 
 ## License
 
